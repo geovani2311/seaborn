@@ -1,2 +1,2 @@
 ## Introduction Seaborn
-repositório da biblioteca Seaborn no GitHub, contendo exemplos básicos de plotagem de gráficos. Este repositório foi criado para ajudar iniciantes a entenderem e utilizarem o Seaborn, uma poderosa biblioteca de visualização de dados em Python. Nele, foram incluídos diversos exemplos práticos que cobrem desde gráficos de linhas e dispersão até diagramas de violino e mapas de calor
+A repository of the Seaborn library was added to GitHub, containing basic examples of plot graphs. This repository was created to help beginners understand and use Seaborn, a powerful data visualization library in Python. It includes various practical examples covering everything from line and scatter plots to violin plots and heatmaps.
